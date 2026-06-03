@@ -94,7 +94,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
 * **URL:** `http://localhost:8050/api/account/50501`
 * **Path Variable:** Replace 50501 with the specific account number you want to look up.
 * **Body:** None
-
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/d715c0a6a31cafa9e0918ad9b04af45910c944d4/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-03%20185937.png)
 ### 3. Fetch All Accounts Details
 * **HTTP Method:** GET
 * **URL:** `http://localhost:8050/api/accounts`
