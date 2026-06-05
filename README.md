@@ -152,7 +152,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
   "withdrawAmt": 2200.00
 }
 ```
-![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/e6e669d222baf1884da498a7f083de97d003f0d7/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20173806.png)
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/9d4939ac72983ad6a3515684b5e6e0a7da3f0dc7/spring_restFul_bankingApplication/screenshots/withdraw_amount.png)
 ### 3. Fund Transfer (Inter-Account)
 * **HTTP Method:** PUT
 * **URL:** `http://localhost:8050/api/transfer`
