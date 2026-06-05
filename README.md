@@ -137,6 +137,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
   "depositAmt": 5000.00
 }
 ```
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/99e862ec75ab3fdc103d264b10713f7352af2484/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20173425.png)
 ### 2. Withdraw Funds
 * **HTTP Method:** PUT
 * **URL:** `http://localhost:8050/api/withdrawn`
