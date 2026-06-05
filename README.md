@@ -166,9 +166,12 @@ The endpoints can be fully tested using Postman. Since the application leverages
 }
 ```
 ![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/39f9aae75e035c8b71ff827a9b1ffdedb339c321/spring_restFul_bankingApplication/screenshots/transfer_amount.png)
+
 ### Account Balance before transfering money
 ![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/69980d37f0843e2fcc325f94af3ac32cd35c9ca5/spring_restFul_bankingApplication/screenshots/details_before_transfer.png)
+
 ### Account Balance after transfering money
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/8f71da29412d8ff9ecc9778404080b5931646394/spring_restFul_bankingApplication/screenshots/details_after_transfer.png)
 ## 🔮 What's Next (Future Roadmap)
 
 To bring this application closer to a production-ready enterprise system, the following features are planned for implementation:
