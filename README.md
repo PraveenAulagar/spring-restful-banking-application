@@ -76,6 +76,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
 * **HTTP Method:** POST
 * **URL:** `http://localhost:8050/api/create`
 * **Body (JSON):**
+
 ```json
 {
   "firstName": "Praveen",
@@ -107,18 +108,20 @@ The endpoints can be fully tested using Postman. Since the application leverages
 * **Body Type:** JSON (raw)
 * **Sample Request Body:**
 ```json
-{
-  "firstName": "Praveen",
-  "address": "Mumbai",
-  "dob": "1989/05/15",
-  "accOpeningdate": "2026/06/01",
-  "mobileNumber": 9876543210,
-  "email": "praveen@email.com",
-  "aadharNumber": "1234-5678-9012",
-  "panNumber": "ABCDE1234F",
-  "balance": 50000.00
+{   "accNum":50501,
+    "name":"praveen",
+    "address":"nashik",
+    "mobileNo":1234567890,
+    "email":"p@gmail.com",
+    "dob":"1988/09/09",
+    "aadharNum":"123409876521",
+    "panNum":"ABC1234XY",
+    "accOpeningDate":"2026/01/01",
+    "balance":5000
 }
 ```
+### name updated from pravin to praveen
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/5ab961a5e974fc2697b5731992b08f6e0bce1fa1/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20181243.png)
 ### 5. Delete Account
 * **HTTP Method:** DELETE
 * **URL:** `http://localhost:8050/api/delete/50501/ABCDE1234F`
