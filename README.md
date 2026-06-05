@@ -100,7 +100,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
 * **HTTP Method:** GET
 * **URL:** `http://localhost:8050/api/accounts`
 * **Body:** None
-
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/524f14bd9618c35ab74cccf4b02eec22a712d398/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20182947.png)
 ### 4. Update Account Details
 * **HTTP Method:** PUT
 * **URL:** `http://localhost:8050/api/update/50501`
