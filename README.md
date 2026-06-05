@@ -122,7 +122,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
 }
 ```
 ### name updated from pravin to praveen
-![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/5ab961a5e974fc2697b5731992b08f6e0bce1fa1/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20181243.png)
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/1bec25d09c369fc46d25ac7d333e17fc91a6d3b9/spring_restFul_bankingApplication/screenshots/update_account_details.png)
 ### 5. Delete Account
 * **HTTP Method:** DELETE
 * **URL:** `http://localhost:8050/api/delete/50501/ABCDE1234F`
