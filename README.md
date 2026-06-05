@@ -145,10 +145,10 @@ The endpoints can be fully tested using Postman. Since the application leverages
 ```json
 {
   "accNum": 50501,
-  "withdrawAmt": 1500.00
+  "withdrawAmt": 2200.00
 }
 ```
-
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/e6e669d222baf1884da498a7f083de97d003f0d7/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20173806.png)
 ### 3. Fund Transfer (Inter-Account)
 * **HTTP Method:** PUT
 * **URL:** `http://localhost:8050/api/transfer`
