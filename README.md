@@ -79,15 +79,15 @@ The endpoints can be fully tested using Postman. Since the application leverages
 
 ```json
 {
-  "firstName": "Praveen",
-  "address": "Nasik",
-  "dob": "1989/05/15",
-  "accOpeningdate": "2026/06/01",
-  "mobileNumber": 9876543210,
-  "email": "praveen@email.com",
-  "aadharNumber": "1234-5678-9012",
-  "panNumber": "ABCDE1234F",
-  "balance": 50000.00
+    "name":"pravin",
+    "address":"Navi mumbai",
+    "mobileNo":1122334455,
+    "email":"pn@gmail.com",
+    "dob":"1988/01/01",
+    "aadharNum":"123409876432",
+    "panNum":"ABC1234GH",
+    "accOpeningDate":"2026/04/01",
+    "balance":5000
 }
 ```
 ### 2. Fetch Single Account details
