@@ -129,6 +129,8 @@ The endpoints can be fully tested using Postman. Since the application leverages
 * **Path Variables:** `/close/{accNum}/{panNum}`
 * **Body:** None
 ![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/a1e8a0119048e9efadee95dfd4803332a86824f5/spring_restFul_bankingApplication/screenshots/close_account.png)
+### After closing single account list of remaining accounts
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/fdb8a71a3d25e4a9f28c6f2126f5eb0d6fde2aa7/spring_restFul_bankingApplication/screenshots/after_closing_account.png)
 ### 2. Transaction Endpoints
 
 ### 1. Deposit Funds
@@ -166,10 +168,8 @@ The endpoints can be fully tested using Postman. Since the application leverages
 }
 ```
 ![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/39f9aae75e035c8b71ff827a9b1ffdedb339c321/spring_restFul_bankingApplication/screenshots/transfer_amount.png)
-
 ### Account Balance before transfering money
 ![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/69980d37f0843e2fcc325f94af3ac32cd35c9ca5/spring_restFul_bankingApplication/screenshots/details_before_transfer.png)
-
 ### Account Balance after transfering money
 ![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/8f71da29412d8ff9ecc9778404080b5931646394/spring_restFul_bankingApplication/screenshots/details_after_transfer.png)
 ## 🔮 What's Next (Future Roadmap)
