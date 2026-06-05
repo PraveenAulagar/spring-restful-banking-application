@@ -165,6 +165,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
   "creditAmt": 2000.00
 }
 ```
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/39f9aae75e035c8b71ff827a9b1ffdedb339c321/spring_restFul_bankingApplication/screenshots/transfer_amount.png)
 ## 🔮 What's Next (Future Roadmap)
 
 To bring this application closer to a production-ready enterprise system, the following features are planned for implementation:
