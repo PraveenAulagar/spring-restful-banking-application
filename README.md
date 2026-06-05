@@ -90,6 +90,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
     "balance":5000
 }
 ```
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/d334c3a8844950957ee25160eb1bf7a2a742101d/spring_restFul_bankingApplication/screenshots/Screenshot%202026-06-05%20184212.png)
 ### 2. Fetch Single Account details
 * **HTTP Method:** GET
 * **URL:** `http://localhost:8050/api/account/50501`
