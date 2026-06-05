@@ -128,7 +128,7 @@ The endpoints can be fully tested using Postman. Since the application leverages
 * **URL:** `http://localhost:8050/api/delete/50501/ABCDE1234F`
 * **Path Variables:** `/close/{accNum}/{panNum}`
 * **Body:** None
-
+![image alt](https://github.com/PraveenAulagar/spring-restful-banking-application/blob/a1e8a0119048e9efadee95dfd4803332a86824f5/spring_restFul_bankingApplication/screenshots/close_account.png)
 ### 2. Transaction Endpoints
 
 ### 1. Deposit Funds
